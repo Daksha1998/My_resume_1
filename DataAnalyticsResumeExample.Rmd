@@ -1,0 +1,143 @@
+---
+title: "Daksha Marathe"
+author: Daksha S Marathe
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope">Daksha.marathe@tufts.edu
+- <i class="fa fa-github"></i> [github.com/Daksha1998/](https://github.com/Daksha1998/)
+- <i class="fa fa-phone"></i> +1 279-278-1642
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in **Tableau**  to understand and analyze the data.
+
+- Performing **data analysis**, with a focus on different machine learning models and some graphic design models.
+
+- Experienced in **data communication** and client relations
+
+- Course Language - **R/Python/SQL**
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Daksha Marathe{#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking fall 2022 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Data Analysis
+
+Medford, MA
+
+2021--Current
+
+
+### Undergraduate University
+
+Sinhgad Institute of Technology & Science(Pune University)
+
+Pune, India
+
+2015--2019
+
+
+
+Work Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Data Analyst
+
+ASMI Youth Career Advisor LLP.
+
+Sangli, India
+
+2019--2021
+
+- Collected and presented meaningful data insights related to
+student’s academic background information
+- Designed basic quality test strategies to test the data findings related to student scores and other information
+- Monitored and helped senior analysts to analyze the progress of
+the students by observing their scores of periodic academic tests
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### DATA-200 Foundations of Data Analyics 
+
+Tufts University
+
+Medford, MA
+
+2021--2022
+
+<!--::: concise-->
+- Deployed a project which predicted the different results of the Airbnb from Chicago in 2021.
+- Iterated the model to select the best approachfrom using the machine learning models like random forest and logistic regression.
+<!--:::-->
+
+
+
+
+### Other project
+
+Pune University
+
+Pune, India
+
+2018 -- 2019
+
+- The Capstone for the healthcare system and the name of the project is **Anonymous Authentication in Healthcare System using time constraint access**
+- A system designed to avoid security threats to hospital management
+using Crypto-graphic Algorithm (AES & ECC).
+
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### DATA-200 Final Project
+Presented a model for Airbnb price detection, and summarized main results and assumptions of the model to my cohort. 
+
+Medford, MA
+
+December 2021
+
+
